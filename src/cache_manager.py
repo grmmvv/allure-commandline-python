@@ -2,6 +2,7 @@ import os
 
 from pkg_resources import parse_version
 
+from src.install_manager import InstallManager
 from src.vars import RELEASE_FILE, CACHE_DIR
 
 
